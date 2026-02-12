@@ -12,6 +12,7 @@
   - Backend: Node.js, Express.js, Nest.js, GraphQL
   - Databases: PostgreSQL, MongoDB, Firebase
   - DevOps: Docker, AWS, Vercel
+  -Game Development:Unity(2D&3D),C#,WebGL
   - Version Control: Git, GitHub, CI/CD
 
    ### Web3 & Blockchain 
